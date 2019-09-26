@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  background: transparent;
+}
+
+.navbutton {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.my-card {
+  max-width: 500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.bg {
+    background-image : url('../assets/gameday.JPG');
+    height : 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
